@@ -4,7 +4,8 @@ A new Flutter project with integrated APIs.
 
 👽 **Character Encyclopedia**: Learn about the diverse cast of characters and their eccentricities.
 
-![ezgif-2-f64716a77e](https://github.com/amrel7afy/rick_and_morty/assets/58088485/af9150e2-b8c5-49f0-a59f-53ba07f55955)
+
+![petal_20231206_144704](https://github.com/amrel7afy/rick_and_morty/assets/58088485/18643f32-378f-4822-b6c3-f3ce651e8d3d)
 
 ## Packages:
 ### #flutter_bloc
@@ -13,6 +14,11 @@ A new Flutter project with integrated APIs.
 ### #shimmer
 ### #flutter_staggered_grid_view
 
+
+
+
+
+https://github.com/amrel7afy/rick_and_morty/assets/58088485/0bacd995-1b59-4bef-adf9-246ffba37a65
 
 
 A few resources to get you started if this is your first Flutter project:
