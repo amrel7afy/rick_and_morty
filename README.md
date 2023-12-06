@@ -1,6 +1,6 @@
-# rick_and_morty
+# Rick And Morty
 
-A new Flutter project.
+A new Flutter project with integrated APIs using ###Dio package.
 
 ## Getting Started
 
