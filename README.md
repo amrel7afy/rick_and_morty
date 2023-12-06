@@ -1,10 +1,17 @@
-# Rick And Morty
+# Rick And Morty App 🚀
 
-A new Flutter project with integrated APIs using ###Dio package.
+A new Flutter project with integrated APIs.
 
-## Getting Started
+👽 **Character Encyclopedia**: Learn about the diverse cast of characters and their eccentricities.
+## Packages:
+### #flutter_bloc
+### #dio
+### #shared_preferences
+### #shimmer
+### #flutter_staggered_grid_view
 
-This project is a starting point for a Flutter application.
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
