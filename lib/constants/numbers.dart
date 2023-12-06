@@ -1,0 +1,1 @@
+int degreeOfGreyColor=200;
