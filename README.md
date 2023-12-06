@@ -3,13 +3,15 @@
 A new Flutter project with integrated APIs.
 
 👽 **Character Encyclopedia**: Learn about the diverse cast of characters and their eccentricities.
+
+![ezgif-2-f64716a77e](https://github.com/amrel7afy/rick_and_morty/assets/58088485/af9150e2-b8c5-49f0-a59f-53ba07f55955)
+
 ## Packages:
 ### #flutter_bloc
 ### #dio
 ### #shared_preferences
 ### #shimmer
 ### #flutter_staggered_grid_view
-
 
 
 
